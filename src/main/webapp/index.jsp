@@ -6,7 +6,7 @@
 <title> Welcome mY dear friends </title>
 <style>
   body {
-    background-color: pink;
+    background-color: blue;
   }
 </style>
 </head>
